@@ -1,0 +1,13 @@
+com.mitrais.carrot
+com.mitrais.carrot.config
+com.mitrais.carrot.config.error
+com.mitrais.carrot.config.jwt
+com.mitrais.carrot.config.swagger
+com.mitrais.carrot.controllers
+com.mitrais.carrot.models
+com.mitrais.carrot.payload
+com.mitrais.carrot.repositories
+com.mitrais.carrot.services
+com.mitrais.carrot.services.interfaces
+com.mitrais.carrot.utils
+com.mitrais.carrot.validation.exception
